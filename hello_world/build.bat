@@ -1,0 +1,1 @@
+java -cp "cljs.jar;src;react-15.6.1-0.jar" clojure.main build.clj
